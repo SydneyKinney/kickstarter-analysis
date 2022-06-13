@@ -25,7 +25,7 @@ The most successful campaigns were launched in May. There was a steady decrease 
 ### Analysis of Outcomes Based on Goals
 The higher success rate was attributed to the lower goal. 
 75% of campaigns were successful if they had a goal of less than $1000. 
-100% of campaigns that had a goal of $45.000 - $49,999 failed.
+100% of campaigns that had a goal of $45,000 - $49,999 failed.
 Overall, the data presents that the lower the goal, the higher the success rate for the campaigns. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107209737/173464700-f3847d04-f0d8-4749-8d92-61d78976c222.png)
 
