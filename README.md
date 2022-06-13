@@ -19,7 +19,7 @@ The purpose of this data analysis was the see how different campaigns fared in r
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The most successful plays were launched in May. There was a steady decrease in successful plays for the following four months (June, July, August, September). December had the lowest number of successful plays. Overall, the best time to launch a play was during May. 
+The most successful campaigns were launched in May. There was a steady decrease in successful campaigns for the following four months (June, July, August, September). December had the lowest number of successful campaigns. Overall, the best time to launch a campaign was during May. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107209737/173464745-2df180a0-b7d8-4167-a298-401b586ea8ec.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -34,7 +34,7 @@ Overall, the data presents that the lower the goal, the higher the success rate 
 Some of the data for outcomes based on goals was very close. The number of successful and failed campaigns were almost equal if the goal was between $5000 - $24,999. That large range presents a challenge when interpreting the data. Moreover, the data is showing that goals of $5000 had almost a 50/50 success/fail rate as well as goals of $24,999. It would be challenging to say that lower cost campaigns (i.e., $5000) were more successful than higher cost campaigns (i.e., $24,999) because they had about the same ratio of successful/failed campaigns.
 
 ## Results
-The data for the outcomes based on launch date showed that the most successful plays were launched in May and December had the lowest number of successful plays. The data for the outcomes based on goals showed that the higher success rate was attributed to the lower goal. For example, 75% of campaigns were successful if they had a goal of less than $1000. 
+The data for the outcomes based on launch date showed that the most successful campaigns were launched in May and December had the lowest number of successful campaigns. The data for the outcomes based on goals showed that the higher success rate was attributed to the lower goal. For example, 75% of campaigns were successful if they had a goal of less than $1000. 
 
 A limitation of the outcomes based on launch date include a variable regarding the weather or season. Are more campaigns successful in May because it is warmer and/or do more campaigns fail in December because it is colder? A limitation of the outcomes based on goals dataset include the range of the goals. If the range was smaller or larger, would it change our results? Another limitation may be regarding the pledges. How many people pledged and were there outliers? If one person pledged the entire goal number, this could skew the data for the rest of the campaigns.  
 
